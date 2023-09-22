@@ -439,7 +439,7 @@ M,66,Governador Valadares,01/06/2020,SIM
 M,68,Mantena,30/05/2020,SIM
 M,63,Lavras,10/06/2020,SIM
 M,66,São João do Oriente,10/06/2020,SIM
-M,63,Coronel Fabriciano,09/06/2020,SIM
+M,63,Coronel,09/06/2020,SIM
 F,73,Caratinga,10/06/2020,SIM
 M,61,Imbé de Minas,10/06/2020,SIM
 F,85,Ipatinga,09/06/2020,SIM
@@ -636,7 +636,7 @@ F,75,Belo Horizonte,12/06/2020,SIM
 M,59,Belo Horizonte,09/06/2020,SIM
 M,83,Boa Esperança,15/06/2020,SIM
 M,63,Caratinga,17/06/2020,SIM
-F,89,Coronel Fabriciano,18/06/2020,SIM
+F,89,Coronel,18/06/2020,SIM
 F,49,Santana do Paraíso,19/06/2020,SIM
 F,47,Caratinga,19/06/2020,SIM
 F,80,Ipatinga,13/06/2020,Não informado
@@ -675,7 +675,7 @@ M,70,Juiz de Fora,03/04/2020,SIM
 M,88,Juiz de Fora,17/06/2020,SIM
 F,74,Santana do Paraíso,27/05/2020,SIM
 F,88,Ipatinga,18/06/2020,SIM
-F,77,Coronel Fabriciano,12/06/2020,NÃO
+F,77,Coronel,12/06/2020,NÃO
 M,76,Cambuí,21/05/2020,SIM
 F,55,Boa Esperança,21/06/2020,SIM
 M,83,Ponte Nova,09/06/2020,SIM
@@ -717,9 +717,9 @@ M,84,Passa Quatro,20/06/2020,SIM
 F,62,Uberaba,21/06/2020,SIM
 F,73,São Pedro do Suaçuí,13/06/2020,Não informado
 M,53,Governador Valadares,13/06/2020,SIM
-M,88,Coronel Fabriciano,20/06/2020,SIM
+M,88,Coronel,20/06/2020,SIM
 F,69,Santana do Paraíso,22/06/2020,SIM
-M,93,Coronel Fabriciano,22/06/2020,SIM
+M,93,Coronel,22/06/2020,SIM
 M,48,Capitão Enéas,19/06/2020,SIM
 M,73,Capitão Enéas,20/06/2020,SIM
 M,82,Teófilo Otoni,05/06/2020,Não informado
@@ -799,7 +799,7 @@ F,75,Ipatinga,23/06/2020,SIM
 F,84,Bom Jesus do Galho,18/06/2020,SIM
 F,70,Santana do Paraíso,22/06/2020,Não informado
 M,82,Ipatinga,23/06/2020,SIM
-F,87,Coronel Fabriciano,23/06/2020,SIM
+F,87,Coronel,23/06/2020,SIM
 M,88,Monte Carmelo,20/06/2020,SIM
 M,96,Arcos,19/06/2020,SIM
 F,87,Carandaí,18/06/2020,SIM
@@ -976,7 +976,7 @@ F,79,Piumhi,25/06/2020,SIM
 M,58,Ataléia,23/06/2020,SIM
 M,81,Nanuque,24/06/2020,SIM
 M,97,Carlos Chagas,26/06/2020,SIM
-M,63,Coronel Fabriciano,21/06/2020,SIM
+M,63,Coronel,21/06/2020,SIM
 F,72,Ipatinga,10/06/2020,SIM
 M,48,Caratinga,20/06/2020,SIM
 F,60,Timóteo,27/06/2020,SIM
@@ -1143,9 +1143,9 @@ M,68,Dom Cavati,02/07/2020,SIM
 M,81,Ipatinga,01/07/2020,SIM
 F,68,Santana do Paraíso,01/07/2020,SIM
 M,75,Mesquita,11/06/2020,SIM
-F,66,Coronel Fabriciano,26/06/2020,Não informado
+F,66,Coronel,26/06/2020,Não informado
 M,68,Ipatinga,02/07/2020,NÃO
-M,66,Coronel Fabriciano,01/07/2020,SIM
+M,66,Coronel,01/07/2020,SIM
 F,55,Lambari,27/06/2020,SIM
 F,85,Piranga,20/06/2020,SIM
 M,80,Janaúba,01/07/2020,SIM
@@ -1256,7 +1256,7 @@ M,80,Pompéu,05/07/2020,SIM
 M,21,Ipatinga,05/07/2020,SIM
 M,68,Santana Do Paraíso,04/07/2020,SIM
 F,80,Timóteo,06/07/2020,SIM
-F,79,Coronel Fabriciano,05/07/2020,SIM
+F,79,Coronel,05/07/2020,SIM
 M,85,Timóteo,06/07/2020,SIM
 M,82,Ipatinga,29/06/2020,NÃO
 F,52,Caratinga,30/06/2020,SIM
@@ -1289,7 +1289,7 @@ F,34,Muriaé,06/04/2020,NÃO
 M,62,São Gotardo,02/07/2020,SIM
 F,67,São Gotardo,05/07/2020,SIM
 F,48,Patos de Minas,05/07/2020,SIM
-M,67,Coronel Fabriciano,06/07/2020,SIM
+M,67,Coronel,06/07/2020,SIM
 M,86,Caratinga,06/07/2020,SIM
 M,86,Ipatinga,06/07/2020,SIM
 F,92,Ipatinga,06/07/2020,NÃO
@@ -1524,10 +1524,10 @@ M,72,Rio Pardo de Minas,09/07/2020,SIM
 M,72,Alpinópolis,07/07/2020,SIM
 M,62,Ipatinga,06/07/2020,SIM
 M,67,Caratinga,08/07/2020,SIM
-M,83,Coronel Fabriciano,09/07/2020,SIM
+M,83,Coronel,09/07/2020,SIM
 F,85,Ipatinga,29/06/2020,SIM
 F,68,Ipatinga,08/07/2020,SIM
-F,54,Coronel Fabriciano,09/07/2020,SIM
+F,54,Coronel,09/07/2020,SIM
 M,67,Araguari,08/07/2020,Não informado
 M,73,Araguari,08/07/2020,SIM
 F,82,Uberlândia,09/07/2020,SIM
@@ -1550,8 +1550,8 @@ M,84,Frutal,09/07/2020,NÃO
 M,73,Santa Juliana,09/07/2020,SIM
 M,77,Uberaba,10/07/2020,SIM
 M,75,Joanésia,09/07/2020,SIM
-F,66,Coronel Fabriciano,10/07/2020,SIM
-M,77,Coronel Fabriciano,03/07/2020,SIM
+F,66,Coronel,10/07/2020,SIM
+M,77,Coronel,03/07/2020,SIM
 M,53,Timóteo,08/07/2020,Não informado
 F,71,Belo Oriente,09/07/2020,SIM
 M,67,Caratinga,09/07/2020,NÃO
@@ -1634,7 +1634,7 @@ F,90,Mar de Espanha,04/07/2020,SIM
 F,54,Timóteo,03/07/2020,SIM
 M,47,Caratinga,04/07/2020,Não informado
 F,62,Timóteo,04/07/2020,SIM
-M,76,Coronel Fabriciano,09/07/2020,NÃO
+M,76,Coronel,09/07/2020,NÃO
 F,46,Japonvar,09/07/2020,Não informado
 M,87,Araguari,12/07/2020,SIM
 F,60,Araguari,12/07/2020,SIM
@@ -1710,9 +1710,9 @@ M,84,Uberlândia,13/07/2020,SIM
 M,58,Uberlândia,13/07/2020,NÃO
 M,46,Araguari,14/07/2020,SIM
 M,76,São João do Oriente,13/07/2020,SIM
-M,84,Coronel Fabriciano,12/07/2020,SIM
+M,84,Coronel,12/07/2020,SIM
 M,65,Dom Cavati,12/07/2020,Não informado
-M,81,Coronel Fabriciano,10/07/2020,NÃO
+M,81,Coronel,10/07/2020,NÃO
 M,80,Araguari,13/07/2020,SIM
 F,70,Sete Lagoas,12/07/2020,SIM
 M,40,Medina,27/06/2020,NÃO
@@ -1778,7 +1778,7 @@ M,52,Nanuque,10/07/2020,Não informado
 F,78,Teófilo Otoni,11/07/2020,SIM
 M,78,Teófilo Otoni,13/07/2020,SIM
 F,85,Espinosa,11/07/2020,SIM
-M,66,Coronel Fabriciano,25/06/2020,Não informado
+M,66,Coronel,25/06/2020,Não informado
 F,56,Ipatinga,11/07/2020,SIM
 M,46,Ipatinga,11/07/2020,SIM
 M,73,Timóteo,14/07/2020,SIM
@@ -1829,7 +1829,7 @@ F,74,Manhuaçu,07/07/2020,SIM
 M,61,Muriaé,25/06/2020,SIM
 M,71,Santa Rita de Minas,12/07/2020,SIM
 M,70,Ipatinga,14/07/2020,SIM
-M,73,Coronel Fabriciano,15/07/2020,Não informado
+M,73,Coronel,15/07/2020,Não informado
 M,55,Ipatinga,12/07/2020,NÃO
 M,74,Santana do Paraíso,15/07/2020,SIM
 F,59,Pouso Alegre,14/07/2020,SIM
@@ -1900,7 +1900,7 @@ F,75,Timóteo,16/07/2020,SIM
 F,68,Ipatinga,16/07/2020,SIM
 F,92,Ipatinga,15/07/2020,SIM
 M,74,Timóteo,16/07/2020,Não informado
-M,49,Coronel Fabriciano,16/07/2020,SIM
+M,49,Coronel,16/07/2020,SIM
 M,56,Iapu,13/07/2020,NÃO
 M,62,Ipatinga,08/07/2020,SIM
 F,93,Ipatinga,08/07/2020,NÃO
@@ -2083,7 +2083,7 @@ M,67,Caratinga,16/07/2020,NÃO
 M,73,Timóteo,19/07/2020,NÃO
 M,98,Timóteo,20/07/2020,SIM
 M,70,Bom Jesus do Galho,15/07/2020,SIM
-M,56,Coronel Fabriciano,19/07/2020,SIM
+M,56,Coronel,19/07/2020,SIM
 F,64,Ipatinga,18/07/2020,NÃO
 F,77,Ipatinga,04/07/2020,NÃO
 M,85,Timóteo,11/07/2020,SIM
@@ -2322,7 +2322,7 @@ M,77,Uberaba,22/07/2020,SIM
 F,78,Santo Antônio do Jacinto,19/07/2020,SIM
 M,61,Divisópolis,15/07/2020,SIM
 F,62,Ipatinga,22/07/2020,SIM
-F,78,Coronel Fabriciano,22/07/2020,SIM
+F,78,Coronel,22/07/2020,SIM
 M,80,Ipatinga,20/07/2020,NÃO
 M,88,Periquito,15/07/2020,SIM
 M,56,Ipatinga,18/07/2020,SIM
@@ -2798,10 +2798,10 @@ F,58,Ipatinga,30/07/2020,Não informado
 F,70,Ipatinga,31/07/2020,SIM
 F,65,Iapu,30/07/2020,SIM
 M,91,Inhapim,28/07/2020,SIM
-F,53,Coronel Fabriciano,29/07/2020,SIM
+F,53,Coronel,29/07/2020,SIM
 M,75,Ipatinga,29/07/2020,SIM
 F,80,Ipatinga,30/07/2020,SIM
-F,66,Coronel Fabriciano,30/07/2020,SIM
+F,66,Coronel,30/07/2020,SIM
 F,93,Timóteo,30/07/2020,SIM
 M,52,Caratinga,18/07/2020,SIM
 M,62,Delta,30/07/2020,SIM
