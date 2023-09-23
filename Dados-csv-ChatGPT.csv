@@ -1,11 +1,11 @@
 nome,idade,salario,despesas_do_mes,qualidade_de_vida
-César,35,4729,1074,medio
+Cesar,35,4729,1074,medio
 Pedro,46,8858,7759,alto
-Cláudio,36,7040,2420,alto
+Claudio,36,7040,2420,alto
 Marcelino,47,3882,1265,medio
 Alice,44,4864,2484,medio
 Aline,51,1613,507,medio
-José,34,8648,3634,alto
+Jose,34,8648,3634,alto
 Silvana,60,7673,6368,alto
 Alexandre,38,8184,144,alto
 Silvana,58,5867,2288,alto
@@ -40,7 +40,7 @@ Lorena,47,3167,141,medio
 Rafael,56,2655,171,medio
 Pedro,44,6471,6230,alto
 Alice,32,6989,573,alto
-Natália,38,7023,5875,alto
+Natalia,38,7023,5875,alto
 Carolina,32,3615,1335,medio
 Rodrigo,40,5821,686,alto
 Leonardo,29,4862,4395,medio
@@ -58,8 +58,8 @@ Tatiana,38,1486,442,medio
 Bruno,57,2895,2109,medio
 Marcelino,31,1217,284,medio
 Luciano,46,3197,1114,medio
-Natália,30,4975,2453,medio
-Vitória,37,8914,8349,alto
+Natalia,30,4975,2453,medio
+Vitoria,37,8914,8349,alto
 Amanda,39,9414,8987,alto
 Alexandre,38,7428,1731,alto
 Ricardo,31,3721,2877,medio
@@ -71,7 +71,7 @@ Mara,40,4897,1399,medio
 Leonardo,27,1724,923,medio
 Patricia,52,998,942,baixo
 Heitor,33,1430,103,medio
-César,56,7150,683,alto
+Cesar,56,7150,683,alto
 Julia,23,1898,1163,medio
 Gabriela,38,6617,700,alto
 Leonardo,60,1595,798,medio
@@ -89,7 +89,7 @@ Bianca,32,6605,3815,alto
 Mariana,49,8119,1193,alto
 Camila,39,6568,725,alto
 Bruno,32,4128,3379,medio
-João,32,8180,4749,alto
+Joao,32,8180,4749,alto
 Sara,28,8488,8460,alto
 Gustavo,31,1415,855,medio
 Ronaldo,33,7725,953,alto
